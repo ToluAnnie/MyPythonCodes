@@ -1,0 +1,14 @@
+The for loop loops through the text file line by line. When you run it,
+you’ll get
+Learn Python in One Day and Learn It Well Python for
+Beginners with Hands-on Project The only book you need
+to start coding in Python immediately
+http://www.learncodingfast.com/python
+I'm about to append this shit bro
+Python is fun!
+I'm about to append this shit bro
+Python is fun!
+I'm about to append this shit bro
+Python is fun!
+I'm about to append this shit bro
+Python is fun!
